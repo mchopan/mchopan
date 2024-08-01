@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mchopan" alt="mchopan" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack**
+- 🔭 I’m currently working at **Cogveel Technalogies**
 
 - 👨‍💻 All of my projects available at [https://mchopan.github.io/portfolio/](https://mchopan.github.io/portfolio/)
 
